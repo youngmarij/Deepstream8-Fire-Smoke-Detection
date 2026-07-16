@@ -21,6 +21,9 @@ The application receives an RTSP video stream, performs GPU-accelerated inferenc
 
 ## Results
 
+<p align="center">
+  <img src="result/0716.gif" width="900" alt="Fire and Smoke Detection">
+</p>
 ---
 
 ## Technology Stack
