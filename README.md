@@ -134,31 +134,6 @@ Copy the library into the project directory (or update the configuration path ac
 
 ---
 
-# Project Structure
-
-```
-fire_smoke/
-
-├── main.py
-├── pipeline.py
-├── source.py
-├── probe.py
-├── rtsp_server.py
-├── parser_args.py
-├── config.py
-├── settings.py
-│
-├── dstest1_pgie_config.txt
-├── labels.txt
-│
-├── model.onnx
-├── model.engine
-│
-└── libnvdsinfer_custom_impl_Yolo.so
-```
-
----
-
 # Pipeline
 
 ```
